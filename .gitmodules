@@ -1,0 +1,3 @@
+[submodule "DailyLearning"]
+	path = DailyLearning
+	url = git@github.com:whocaresnobody/DailyLearning.git
